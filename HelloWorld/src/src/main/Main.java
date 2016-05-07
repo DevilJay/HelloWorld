@@ -8,7 +8,7 @@ public class Main {
 		//test
 		
 		
-		System.out.println("github is weird");
+		System.out.println("github is weird, you are weird");
 	}
 
 }
