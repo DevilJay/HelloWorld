@@ -6,6 +6,9 @@ public class Main {
 		System.out.println("Hello World!");
 		System.out.println("This has been a test commit and merge.");
 		//test
+		
+		
+		System.out.println("github is weird");
 	}
 
 }
